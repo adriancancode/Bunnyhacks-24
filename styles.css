@@ -4,7 +4,7 @@ body {
 
 div {
     background-color: #f6caca;
-    margin: 100px 100px;
+    margin: 100px 200px;
     padding: 10px;
     border-radius: 20px;
     line-height: 1.5;
@@ -31,6 +31,7 @@ p {
 
 a {
     color: #64cce9;
+    transition: font-size 0.5s;
 }
 
 img {
@@ -41,6 +42,5 @@ img {
 }
 
 a:hover {
-    font-size: 25px;
+    font-size: 27px;
 }
-
